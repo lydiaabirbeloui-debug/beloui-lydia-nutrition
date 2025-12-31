@@ -1,4 +1,4 @@
-# beloui-lydia-nutrition
+# sous-groupe-09-du-Groupe-02-nutrition
 Travail pratique sur la nutrition - Module OSLL
 
 ## Description
