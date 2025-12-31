@@ -17,7 +17,10 @@ Ce dépôt contient des ressources et conseils en nutrition dans le cadre du mod
 - TIOUA Mohammed Chafik
 
 ## Contact
-lydiaabir.beloui@gmail.com
+- **Email principal** : lydiaabir.beloui@gmail.com
+- **Formateur** : M1OALLUSTHB (collaborateur du dépôt)
 
 ## Licence
-Ce projet est sous licence MIT.
+
+ M1 OSLL 2024-2025
+USTHB - Faculté des Sciences Biologiques
